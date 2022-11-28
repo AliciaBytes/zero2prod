@@ -14,7 +14,7 @@ path = "src/main.rs"
 name = "zero2prod"
 
 [dependencies]
-axum = "0.5.17"
+axum = "0.6.0"
 tokio = { version = "1.22.0", features = ["full"] }
 
 [dev-dependencies]
